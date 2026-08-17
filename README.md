@@ -25,7 +25,7 @@
 ## 📥 ডাউনলোড করুন (Download)
 আপনি নিচের বাটনটি ক্লিক করে অ্যাপটির লেটেস্ট ভার্সন ডাউনলোড করতে পারেন:
 
-[![Download APK](https://img.shields.io/badge/Download-Latest_APK-blue?style=for-the-badge&logo=android)](https://github.com/TaqwaJourneyApp/taqwajourneyapp.github.io/releases/download/v1.1.0/taqwa-journey-v1.1.0.apk)
+[![Download APK](https://img.shields.io/badge/Download-Latest_APK-blue?style=for-the-badge&logo=android)](https://github.com/TaqwaJourneyApp/taqwajourneyapp.github.io/releases/download/v1.2.0/taqwa-journey-v1.2.0.apk)
 
 > *দ্রষ্টব্য: এটি বর্তমানে ডেভেলপমেন্ট পর্যায়ে আছে। ইনশাআল্লাহ সামনে আরও ফিচার যুক্ত হবে।*
 ## 📸 Preview
@@ -48,7 +48,7 @@
 
 ## 🛡️ ডেভলপমেন্ট আপডেট
 - **প্রযুক্তি:** Kotlin, Jetpack Compose
-- **সংস্করণ:** 1.1.0
+- **সংস্করণ:** 1.2.0
 
 ---
 Developed with ❤️ for the Ummah.
